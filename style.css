@@ -1,0 +1,68 @@
+body{
+	background-color: #fff0f5;
+	}
+.div1{
+background-color: #ffbcd9;
+width: 200px;
+height: 200px;
+margin-top: 10px;
+margin-left: 50px
+}
+.div2{
+	background-color: #ffadce;
+	width: 700px;
+	height: 620px;
+	position: absolute;
+	right: 45px;
+    top: 10px;
+
+}
+.div3{
+	position: absolute;
+	top: 10px;
+	left: 302px;
+	height: 620px;
+	width: 260px;
+	background-color: #fcb4d5;
+	outline: 2px solid #000;
+	
+
+}
+.text{
+	
+	font-size: 20px;
+
+}
+.text1
+{
+	font-size: 70px;
+}
+
+.polin{
+	position: absolute;
+	top: 160px;
+    right: 20px;
+
+
+}
+.nast{
+position: absolute;
+	top: 40px;
+    left: 20px;
+}
+.urban{
+position: absolute;
+	top: 40px;
+    right: 230px;
+}
+.masha{
+position: absolute;
+	bottom: 40px;
+    left:20px;
+}
+.ya{
+	position: absolute;
+	bottom: 40px;
+    right: 230px;
+}
+}
